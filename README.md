@@ -26,7 +26,7 @@ This project demonstrates how to predict a person's **estimated salary** using a
 
 ## 🎯 Problem Statement
 
-> Predict the **estimated salary** of a user using historical data and regression modeling techniques. The model is trained to fit a continuous output using an ANN.
+Predict the **estimated salary** of a user using historical data and regression modeling techniques. The model is trained to fit a continuous output using an ANN.
 
 ---
 
